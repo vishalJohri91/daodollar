@@ -1,0 +1,2 @@
+API to get all parents : localhost:8080/parents
+API to get children with parentID (for eg: parentID = 1) : localhost:8080/children/1
